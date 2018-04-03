@@ -1,0 +1,4 @@
+in\ezeon\capp\controller\TestController.class
+in\ezeon\capp\config\SpringRootConfig.class
+in\ezeon\capp\config\SpringWebConfig.class
+in\ezeon\capp\config\ContactAppDispatcherServletInitializer.class
